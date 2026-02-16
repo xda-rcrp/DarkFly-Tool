@@ -36,7 +36,7 @@ def _main_():
             sys.exit()
         else:
 
-            print '' + instal.strip()
+            print 'p' + instal.strip()
 
             # ==================================================================#
 
